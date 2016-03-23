@@ -4,7 +4,7 @@ title:  "Exposing Drupal 7 Data In A Custom RESTful API With The Restful Module"
 date:   2015-09-05 00:00:00 +1100
 tags: drupal, emberjs, javascript
 permalink: /exposing-drupal-data-custom-restful-api-restful-module/
--------------------------------------------------------------------
+---
 
 You can use the [RESTful module](https://github.com/RESTful-Drupal/restful) to create a custom web service that exposes data from your Drupal 7 instance. For example, if you have a content type called “dogs” with fields “label”, “age”, “breed”, you could have instances of the dogs content type available as a JSON object at an endpoint like:
 

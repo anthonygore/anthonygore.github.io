@@ -4,7 +4,7 @@ title:  "Isolating Distinct, Arbitrary Shapes On A 2D Grid"
 date:   2014-06-15 00:00:00 +1100
 tags: corona game_development lua
 permalink: /isolating-distinct-arbitrary-shapes-on-a-2d-grid/
--------------------------------------------------------------
+---
 
 Let’s say you have a 2D grid with distinct, arbitrary shapes on it (polygons of any sort), and you’d like to isolate the distinct shapes. For example, this 2D grid could represent a game’s map with a system of different shaped buildings. If your player is on top of one building, the game logic requires the application to distinguish the isolated shapes for pathfinding purposes etc.
 

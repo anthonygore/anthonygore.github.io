@@ -4,7 +4,7 @@ title:  "2D Top-Down Game: Movement Algorithm (Part 1)"
 date:   2014-01-10 00:00:00 +1100
 tags: game_development, java, algorithms
 permalink: /movement-algorithm-for-player/
-------------------------------------------
+---
 
 In this game, the player will move to a location on the screen determined by user input. The following are constraints that will need to be considered when constructing an algorithm:
 

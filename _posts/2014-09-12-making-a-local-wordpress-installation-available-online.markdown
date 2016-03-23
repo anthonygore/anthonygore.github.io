@@ -4,7 +4,7 @@ title:  "Making A Local WordPress Installation Available Online"
 date:   2014-09-12 00:00:00 +1100
 tags: networking, wordpress
 permalink: /making-a-local-wordpress-installation-available-online/
--------------------------------------------------------------------
+---
 
 It’s generally considered a best practice to develop a WordPress site (or any site, for that matter) in a “development” environment i.e. own your own computer, and transfer the completed site to the “production” environment i.e. the site’s permanent home.
 

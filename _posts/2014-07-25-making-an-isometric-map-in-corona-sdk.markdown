@@ -4,7 +4,7 @@ title:  "Making An Isometric (2.5D) Map In Corona SDK"
 date:   2014-07-25 00:00:00 +1100
 tags: game_development, corona, isometric
 permalink: /making-an-isometric-2-5d-map-in-corona-sdk/
--------------------------------------------------------
+---
 
 Think of an isometric (aka 2.5D) map as a regular, top-down map (aka orthogonal map), only it’s tilted at a 45deg angle and slightly squashed to provide that fake-3D effect that makes many games look awesome.
 

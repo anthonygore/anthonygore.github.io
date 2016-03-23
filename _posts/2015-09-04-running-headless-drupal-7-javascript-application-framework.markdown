@@ -4,7 +4,7 @@ title:  "Running Headless Drupal 7 With A Javascript Application Framework"
 date:   2015-09-04 00:00:00 +1100
 tags: drupal, javascript
 permalink: /running-headless-drupal-7-javascript-application-framework/
------------------------------------------------------------------------
+---
 
 When Drupal is running headlessly it’s theme is missing and instead the user is interacting with another application that is likely sending and receiving data to Drupal via an API.
 
