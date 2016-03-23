@@ -4,7 +4,7 @@
 # url: http://localhost:4000
 # baseurl: ""
 title: Anthony Gore
-description: Blogging about tech stuff.
+description: I blog about tech stuff.
 avatar: /assets/img/avatar.jpg
 # language: ja
 language: en
@@ -15,9 +15,9 @@ language: en
 icons:
   rss: true
   email:
-  github: qckanemoto
+  github: anthonygore
   bitbucket:
-  twitter: qckanemoto
+  twitter: anthonygore
   facebook:
   google_plus:
   tumblr:
@@ -25,11 +25,11 @@ icons:
   dribbble:
   flickr:
   instagram:
-  linkedin:  # full URL
+  linkedin: https://www.linkedin.com/in/anthonygore
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # full URL
+  stack_exchange: http://stackoverflow.com/users/2278963/anthonygore
   steam:
   wordpress:
   youtube:
@@ -74,7 +74,7 @@ share_buttons:
   facebook: false   # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: http://qckanemoto.github.io/jekyll-qck-theme/assets/img/ogp.png
+  image_url: http://anthonygore.com/assets/img/avatar.jpg
   fb:
     admin: # facebook admin id
     app_id: # facebook application id

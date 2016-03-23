@@ -19,7 +19,7 @@ E.g.:
 
 You can see two distinct shapes on this grid, one on the top left, the other in the bottom right (we ignore touching diagonals).
 
-To isolate the shapes, iterate the grid left-to-right, top-to-bottom. For each cell (xi, yi) that has a value vi where i > 0, check the cell directly above i.e. (xi, yi-1), and directly behind i.e. (xi-1, yi), where i-1 > 0. If either of these has a value vi where i > 0, assign (xi, yi) the value vi. If they don’t, this cell must be part of a new shape. Assign (xi, yi) the value vi+1.
+To isolate the shapes, iterate the grid left-to-right, top-to-bottom. For each cell (x<sub>i</sub>, y<sub>i</sub>) that has a value vi where i > 0, check the cell directly above i.e. (x<sub>i</sub>, y<sub>i-1</sub>), and directly behind i.e. (x<sub>i-1</sub>, y<sub>i</sub>), where i-1 > 0. If either of these has a value v<sub>i</sub> where i > 0, assign (x<sub>i</sub>, y<sub>i</sub>) the value v<sub>i</sub>. If they don’t, this cell must be part of a new shape. Assign (x<sub>i</sub>, y<sub>i</sub>) the value v<sub>i+1</sub>.
 
 The output will be:
 
@@ -30,7 +30,7 @@ The output will be:
     {0,0,0,2,0,2}
     {0,0,2,2,2,2}
  
-As mentioned, this algorithm ignores touching diagonals. In the example, if we considered (x3, y3) and (x4, y4) to be touching, then there’d just be a single shape on this grid.
+As mentioned, this algorithm ignores touching diagonals. In the example, if we considered (x<sub>i</sub>, y<sub>i</sub>) and (x<sub>4</sub>, y<sub>4</sub>) to be touching, then there’d just be a single shape on this grid.
 
 Here’s an implementation in Lua:
 

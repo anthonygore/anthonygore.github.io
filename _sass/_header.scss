@@ -32,6 +32,9 @@
             &.slim {
                 margin-top: 0;
             }
+            &:hover {
+                opacity: 1;
+            }
             @media screen and (max-width: $mobile-width) {
                 margin-top: 0;
             }
@@ -41,7 +44,7 @@
             font-size: 0.6em;
             line-height: 1em;
             margin-top: 0.5em;
-            color: lighten($site-title-color, 20%);
+            color: lighten($brand-color, 40%);
         }
     }
 }

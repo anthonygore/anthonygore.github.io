@@ -90,6 +90,7 @@
     code {
         font-family: $code-font-family;
         font-size: $code-font-size;
+        color: lighten($text-color, 20%);
         margin: 0 2px;
         padding: 0 5px;
         border: 1px solid #ddd;
