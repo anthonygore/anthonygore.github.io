@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Isolating Distinct, Arbitrary Shapes On A 2D Grid"
-date:   2015-06-15 00:00:00 +1100
+date:   2014-06-15 00:00:00 +1100
 tags: corona game_development lua
 permalink: /isolating-distinct-arbitrary-shapes-on-a-2d-grid
 ---
