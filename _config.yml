@@ -1,7 +1,7 @@
 #
 # Basic settings.
 #
-# url: http://localhost:4000
+url: http://anthonygore.com
 # baseurl: ""
 title: Anthony Gore
 description: I blog about tech stuff.
@@ -42,7 +42,7 @@ permalink: pretty
 #
 # Scripts.
 #
-google_analytics: # e.g. UA-000000-01
+google_analytics: UA-54538653-2 # e.g. UA-000000-01
 disqus:
 
 #
@@ -63,7 +63,7 @@ recent_posts_num: 10
 #
 # Pagination.
 #
-paginate: 10
+paginate: 5
 paginate_path: page/:num
 
 #
