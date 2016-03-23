@@ -2,7 +2,7 @@
 layout: post
 title:  "Tutorial: Isometric (2.5D) Puzzle Game With Corona (Part 1)"
 date:   2014-07-25 00:00:00 +1100
-permalink: /tutorial-isometric-2-5d-puzzle-game-with-corona-part-1
+permalink: /tutorial-isometric-2-5d-puzzle-game-with-corona-part-1/
 tags: game_development, corona, lua
 ---
 

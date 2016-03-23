@@ -3,8 +3,8 @@ layout: post
 title:  "Embedding An EmberJS App in Drupal 7"
 date:   2015-09-06 00:00:00 +1100
 tags: drupal, emberjs, javascript
-permalink: /building-emberjs-application-headless-drupal-7
----
+permalink: /building-emberjs-application-headless-drupal-7/
+-----------------------------------------------------------
 
 Before you can build an Ember app to embedded in Drupal 7, you’ll need to get Drupal running “headlessly” i.e. outputting data via an API instead of rendering HTML through a theme. I’ve written a tutorial to demonstrate how to set this up: [Exposing Drupal 7 data in a custom RESTful API with the RESTful module](http://anthonygore.com/exposing-drupal-data-custom-restful-api-restful-module/).
 

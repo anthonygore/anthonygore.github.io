@@ -3,8 +3,8 @@ layout: post
 title:  "Tutorial: Amazon S3 Hosted Videos With Drupal 7"
 date:   2014-10-24 00:00:00 +1100
 tags: aws, drupal, vagrant
-permalink: /tutorial-amazon-s3-hosted-videos-drupal-7
----
+permalink: /tutorial-amazon-s3-hosted-videos-drupal-7/
+------------------------------------------------------
 
 If you want to host and playback video on your Drupal site, it’s a good option to use Amazon Simple Storage Service to store those video files. S3 is cheap, fast and scalable.
 

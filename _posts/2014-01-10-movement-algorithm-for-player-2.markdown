@@ -3,8 +3,8 @@ layout: post
 title:  "2D Top-Down Game: Movement Algorithm (Part 2)"
 date:   2014-01-10 00:00:01 +1100
 tags: game_development, java, algorithms
-permalink: /2d-top-down-game-movement-algorithm-2
----
+permalink: /2d-top-down-game-movement-algorithm-2/
+--------------------------------------------------
 
 The player can only face in eight directions i.e. the cardinal (N, E, S, W) and ordinal (NE, SE, SW, NW) directions. This constraint is in response to the graphic art requirements; it can’t be expected that there will be animation in all possible directions. My assertion is that these eight directions will be enough, as they are for many top-down games.
 

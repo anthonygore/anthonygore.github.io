@@ -3,8 +3,8 @@ layout: post
 title:  "Automated Backup Of AWS Route 53 Record Sets"
 date:   2015-02-16 00:00:00 +1100
 tags: aws, bash
-permalink: /automated-backup-aws-route-53-records
----
+permalink: /automated-backup-aws-route-53-records/
+--------------------------------------------------
 
 If you’re using AWS Route 53 to manage DNS records, it’s a good idea to backup in case of accidental deletion and other such misfortunes.
 

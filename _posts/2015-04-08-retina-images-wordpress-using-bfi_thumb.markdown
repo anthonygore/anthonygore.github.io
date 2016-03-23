@@ -3,8 +3,8 @@ layout: post
 title:  "Retina Images With WordPress Using bfi_thumb"
 date:   2015-04-08 00:00:00 +1100
 tags: wordpress
-permalink: /retina-images-wordpress-using-bfi_thumb
----
+permalink: /retina-images-wordpress-using-bfi_thumb/
+----------------------------------------------------
 
 If you want to serve retina images with WordPress plugin [WP Retina 2x](http://apps.meow.fr/wp-retina-2x/) but you’re using [bfi_thumb](https://github.com/bfintal/bfi_thumb), you’re going to have a slight problem.
 
